@@ -1,0 +1,12 @@
+{
+  "name": "profil-instadog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "npx @tailwindcss/cli -i assets/lib/tailwind.css -o assets/css/style.css --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
